@@ -6,5 +6,5 @@ compiler:
 - clang
 - gcc
 script:
-- gcc -o test main.c 
-- ./main
+- gcc -o test test.c 
+- ./test
