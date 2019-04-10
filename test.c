@@ -2,11 +2,7 @@
 
 int main()
 {
-    int year;
-
-    printf("Enter a year: ");
-    scanf("%d",&year);
-
+    int year=2014;
     if(year%4 == 0)
     {
         if( year%100 == 0)
