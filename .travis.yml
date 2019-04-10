@@ -7,4 +7,4 @@ compiler:
 - gcc
 script:
 - gcc -o test main.c // we can use gcc instead of clang too
-- ./test
+- ./main
